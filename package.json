@@ -1,5 +1,5 @@
 {
-	"name": "@mercuryworkshop/scramjet",
+	"name": "@sudo-alt-duke/scramjet",
 	"version": "1.0.2-beta",
 	"description": "An experimental web proxy that aims to be the successor to Ultraviolet",
 	"main": "./lib/index.cjs",
@@ -8,7 +8,7 @@
 	"packageManager": "pnpm@latest",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/MercuryWorkshop/scramjet"
+		"url": "https://github.com/sudo-alt-duke/scramjet/"
 	},
 	"scripts": {
 		"build": "rspack build --mode production",
